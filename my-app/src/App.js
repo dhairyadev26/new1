@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="container my-5">
-            <h2 className="text-center mb-4">niyati</h2>
+            <h2 className="text-center mb-4">niyu baby;</h2>
 
             <h3 className="text-center mb-4">Terms and Conditions of Use for [Your App Name]<br/>
             <small>Effective Date: [Date]</small></h3>
